@@ -1,4 +1,3 @@
-import next from "next";
 
 async function getData() {
   const res = await fetch('https://6388da71d94a7e5040a8c592.mockapi.io/users/users', {cache: 'force-cache',
