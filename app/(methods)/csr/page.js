@@ -1,3 +1,6 @@
+'use client'
+
+// client side rendered
 import { useEffect, useState } from 'react';
 
 export default function ClientSideRendered() {
